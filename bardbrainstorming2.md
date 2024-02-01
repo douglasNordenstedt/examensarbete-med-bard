@@ -2,8 +2,6 @@
 
 Sedan igår har jag experimenterat lite med bard och dess förmåga att skriva egna låtar och melodier. Detta väckte mitt intresse och gav mig fler ideér till mitt examensarbete så jag tog hjälp av bard med denna prompt:
 
-## Examensarbete om Textbaserad AI i Musikproduktion
-
 Jag vill skriva mitt examensarbete om hur textbaserad AI fungerar i musikproduktion. Till exempel låta AI skriva en hel låt själv med ackord, toppmelodi, trummor, takt, tempo och val av instrument. Ge mig en grundläggande struktur för att skriva detta arbete på samt två teser som ska besvaras i texten jag ska skriva.
 
 ### Grundläggande struktur för examensarbete
@@ -30,8 +28,8 @@ Ett examensarbete består vanligtvis av följande delar:
 
 I ditt fall skulle jag föreslå följande två teser:
 
-1. **Tese 1:** Textbaserad AI kan användas för att generera musik med hög kvalitet.
-2. **Tese 2:** Textbaserad AI kan användas för att automatisera delar av musikproduktionsprocessen.
+1. **Tes 1:** Textbaserad AI kan användas för att generera musik med hög kvalitet.
+2. **Tes 2:** Textbaserad AI kan användas för att automatisera delar av musikproduktionsprocessen.
 
 ### Förslag på innehåll
 
